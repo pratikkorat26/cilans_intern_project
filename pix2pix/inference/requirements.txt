@@ -1,0 +1,6 @@
+albumentations==1.0.0
+torch==1.9.0.dev20210524
+streamlit==0.81.1
+torchvision==0.10.0.dev20210524
+numpy==1.19.5
+Pillow==8.2.0
